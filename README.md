@@ -74,7 +74,7 @@ Hướng dẫn cài đặt
 
 1. Clone project
 
-[git clone https://github.com/ten-github/ten-repo.git](https://github.com/phandungj06-netizen/Flashcardapp.git)
+https://github.com/phandungj06-netizen/Flashcardapp.git
 
 2. Mở project bằng Xcode
 
@@ -156,5 +156,5 @@ Tác giả
 
 Link GitHub
 
-[https://github.com/ten-github/ten-repo](https://github.com/phandungj06-netizen/Flashcardapp.git)
+https://github.com/phandungj06-netizen/Flashcardapp.git
 
